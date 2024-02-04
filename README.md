@@ -6,3 +6,6 @@ This article is only really tangentally related to software development, but I f
 
 ## Thoughts from Haolin Zhong:
 I do believe what you said about the connection between linguistics and computer science. I took the NLP last courses where I also find that in many circumstances, the application of linguistics on model tranning will be more effective and efficient. 
+
+## Thoughts from Betty Li:
+I think it's a very interesting experiments. The baby head camera is a great way to approach how babies learnt language and their perception of the world in the first place. I'm also aware of the discrepancy between how babies and AI models learn, and I believe incorporation and interpretation of data like this will provide valuable insight into human cognitive process and improve the AI models to make it learn like human.
