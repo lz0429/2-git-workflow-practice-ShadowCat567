@@ -9,3 +9,6 @@ I do believe what you said about the connection between linguistics and computer
 
 ## Thoughts from Betty Li:
 I think it's a very interesting experiments. The baby head camera is a great way to approach how babies learnt language and their perception of the world in the first place. I'm also aware of the discrepancy between how babies and AI models learn, and I believe incorporation and interpretation of data like this will provide valuable insight into human cognitive process and improve the AI models to make it learn like human.
+
+## Thoughts from Zhuang(Jason) Liu
+It's very interesting that this article makes a connection between lingustics and AI, hinting at a new era where AI could offer profound insights into the intricacies of language learning and development. I believe that using AI should give a new idea to lingustics.
